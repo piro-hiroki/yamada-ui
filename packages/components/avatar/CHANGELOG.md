@@ -1,5 +1,16 @@
 # @yamada-ui/avatar
 
+## 1.1.13
+
+### Patch Changes
+
+- Updated dependencies [[`bd90941`](https://github.com/hirotomoyamada/yamada-ui/commit/bd909411b5155394bca8f714d195111cf2463d25)]:
+  - @yamada-ui/utils@1.0.6
+  - @yamada-ui/icon@1.0.14
+  - @yamada-ui/image@1.0.14
+  - @yamada-ui/core@1.4.2
+  - @yamada-ui/use-animation@1.0.14
+
 ## 1.1.12
 
 ### Patch Changes
